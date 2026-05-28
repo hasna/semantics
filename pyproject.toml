@@ -7,7 +7,6 @@ name = "semhex"
 version = "0.1.0"
 description = "SemHex — Semantic Hexadecimal Encoding. A universal compact discrete encoding for meaning, like hex codes for colors."
 readme = "README.md"
-license = {text = "Apache-2.0"}
 requires-python = ">=3.10"
 authors = [
     { name = "Andrei Hasna", email = "andrei@hasna.com" },
