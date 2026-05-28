@@ -1,0 +1,34 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+dist/
+build/
+*.egg-info/
+.eggs/
+.venv/
+venv/
+env/
+.env
+
+# Codebook training data (large, downloaded by scripts)
+data/
+
+# Generated codebook numpy arrays (large, rebuilt by training)
+codebooks/v0.1/*.npy
+
+# Evaluation results (regenerated)
+evaluation/results/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+.secrets/

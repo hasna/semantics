@@ -1,0 +1,1527 @@
+{
+  "l1": {
+    "$00": "feel",
+    "$01": "have",
+    "$02": "some",
+    "$03": "move",
+    "$04": "jealousy",
+    "$05": "not",
+    "$06": "bittersweetness",
+    "$07": "climate science",
+    "$08": "bad",
+    "$09": "submission",
+    "$0A": "pride",
+    "$0B": "small",
+    "$0C": "remorse",
+    "$0D": "far",
+    "$0E": "want",
+    "$0F": "astronomy",
+    "$10": "be (somewhere)",
+    "$11": "loneliness",
+    "$12": "complaining",
+    "$13": "true",
+    "$14": "know",
+    "$15": "other",
+    "$16": "love",
+    "$17": "happen",
+    "$18": "body",
+    "$19": "touch",
+    "$1A": "where",
+    "$1B": "reporting",
+    "$1C": "anger",
+    "$1D": "arguing",
+    "$1E": "I",
+    "$1F": "aggressiveness",
+    "$20": "two",
+    "$21": "The error occurs only when both conditions are true",
+    "$22": "think",
+    "$23": "die",
+    "$24": "trust",
+    "$25": "history",
+    "$26": "envy",
+    "$27": "medicine",
+    "$28": "side",
+    "$29": "this",
+    "$2A": "near",
+    "$2B": "shame",
+    "$2C": "people",
+    "$2D": "narrating",
+    "$2E": "machine learning",
+    "$2F": "praising",
+    "$30": "you",
+    "$31": "sadness",
+    "$32": "before",
+    "$33": "surprise",
+    "$34": "cynicism",
+    "$35": "do",
+    "$36": "be (someone/something)",
+    "$37": "something",
+    "$38": "describing",
+    "$39": "training",
+    "$3A": "economics",
+    "$3B": "grief",
+    "$3C": "say",
+    "$3D": "much",
+    "$3E": "relief",
+    "$3F": "The meeting is in two hours"
+  },
+  "l2": {
+    "$00.0000": "words",
+    "$00.0001": "sub_0_1",
+    "$00.0002": "feel",
+    "$00.0003": "transportation",
+    "$00.0004": "morbidness",
+    "$00.0005": "irritation",
+    "$00.0006": "sub_0_6",
+    "$01.0000": "have",
+    "$02.0000": "anticipation",
+    "$02.0001": "physics",
+    "$02.0002": "exercise",
+    "$02.0003": "expressing surprise",
+    "$02.0004": "Move it to the right",
+    "$02.0005": "sentimentality",
+    "$02.0006": "sub_2_6",
+    "$02.0007": "now",
+    "$02.0008": "good",
+    "$02.0009": "Would you mind taking a look?",
+    "$02.000A": "some",
+    "$02.000B": "sub_2_11",
+    "$03.0000": "chemistry",
+    "$03.0001": "summarizing",
+    "$03.0002": "move",
+    "$04.0000": "jealousy",
+    "$05.0000": "requesting information",
+    "$05.0001": "not",
+    "$05.0002": "disapproval",
+    "$05.0003": "boredom",
+    "$05.0004": "greeting",
+    "$05.0005": "weather",
+    "$05.0006": "happiness",
+    "$05.0007": "It's located on the left side",
+    "$05.0008": "sub_5_8",
+    "$06.0000": "bittersweetness",
+    "$06.0001": "instructing",
+    "$06.0002": "version control",
+    "$07.0000": "climate science",
+    "$07.0001": "How does photosynthesis work?",
+    "$07.0002": "The function is throwing an error",
+    "$08.0000": "film",
+    "$08.0001": "cybersecurity",
+    "$08.0002": "Either option A or option B will work",
+    "$08.0003": "bad",
+    "$09.0000": "The temperature is very high",
+    "$09.0001": "submission",
+    "$09.0002": "sub_9_2",
+    "$0A.0000": "healthcare",
+    "$0A.0001": "pride",
+    "$0B.0000": "architecture",
+    "$0B.0001": "small",
+    "$0C.0000": "remorse",
+    "$0D.0000": "far",
+    "$0D.0001": "sub_13_1",
+    "$0D.0002": "There are approximately 500 items",
+    "$0D.0003": "inviting",
+    "$0D.0004": "sub_13_4",
+    "$0D.0005": "artificial intelligence",
+    "$0E.0000": "want",
+    "$0E.0001": "hear",
+    "$0E.0002": "sub_14_2",
+    "$0E.0003": "live",
+    "$0E.0004": "congratulating",
+    "$0F.0000": "This is amazing!",
+    "$0F.0001": "astronomy",
+    "$10.0000": "sub_16_0",
+    "$10.0001": "making a prediction",
+    "$10.0002": "maybe",
+    "$10.0003": "sub_16_3",
+    "$10.0004": "sub_16_4",
+    "$10.0005": "expressing agreement",
+    "$10.0006": "be (somewhere)",
+    "$10.0007": "a short time",
+    "$10.0008": "hope",
+    "$10.0009": "debugging code",
+    "$10.000A": "design",
+    "$10.000B": "sub_16_11",
+    "$10.000C": "apologizing",
+    "$11.0000": "loneliness",
+    "$12.0000": "art",
+    "$12.0001": "complaining",
+    "$12.0002": "project management",
+    "$12.0003": "The quality could be improved",
+    "$13.0000": "after",
+    "$13.0001": "shopping",
+    "$13.0002": "web development",
+    "$13.0003": "true",
+    "$13.0004": "request for help",
+    "$13.0005": "very",
+    "$13.0006": "warning",
+    "$13.0007": "sub_19_7",
+    "$14.0000": "know",
+    "$14.0001": "gratitude",
+    "$14.0002": "below",
+    "$15.0000": "more",
+    "$15.0001": "research",
+    "$15.0002": "sub_21_2",
+    "$15.0003": "other",
+    "$15.0004": "Can you help me with this?",
+    "$15.0005": "see",
+    "$15.0006": "one",
+    "$15.0007": "More than half of the users",
+    "$15.0008": "sub_21_8",
+    "$15.0009": "biology",
+    "$15.000A": "cloud computing",
+    "$15.000B": "sub_21_11",
+    "$15.000C": "It will be ready by tomorrow",
+    "$15.000D": "ecology",
+    "$15.000E": "promising",
+    "$15.000F": "sub_21_15",
+    "$15.0010": "homework",
+    "$15.0011": "for some time",
+    "$15.0012": "The deadline was last week",
+    "$15.0013": "sub_21_19",
+    "$15.0014": "confirming",
+    "$15.0015": "sub_21_21",
+    "$16.0000": "love",
+    "$16.0001": "programming",
+    "$16.0002": "sub_22_2",
+    "$16.0003": "sub_22_3",
+    "$16.0004": "The object is above the table",
+    "$16.0005": "It decreased by 15 percent",
+    "$17.0000": "This is the best solution I've seen",
+    "$17.0001": "happen",
+    "$17.0002": "sub_23_2",
+    "$18.0000": "API design",
+    "$18.0001": "body",
+    "$18.0002": "like (similar)",
+    "$18.0003": "confusion",
+    "$18.0004": "big",
+    "$18.0005": "don't want",
+    "$18.0006": "the same",
+    "$18.0007": "management",
+    "$18.0008": "there is",
+    "$18.0009": "Memory usage is increasing over time",
+    "$18.000A": "sales",
+    "$18.000B": "travel",
+    "$18.000C": "dominance",
+    "$18.000D": "fatalism",
+    "$18.000E": "law",
+    "$18.000F": "sub_24_15",
+    "$18.0010": "excitement",
+    "$18.0011": "sub_24_17",
+    "$18.0012": "work",
+    "$18.0013": "sub_24_19",
+    "$19.0000": "expressing preference",
+    "$19.0001": "touch",
+    "$19.0002": "sub_25_2",
+    "$1A.0000": "where",
+    "$1A.0001": "embarrassment",
+    "$1A.0002": "This happened yesterday",
+    "$1B.0000": "reporting",
+    "$1C.0000": "anger",
+    "$1C.0001": "family",
+    "$1C.0002": "sub_28_2",
+    "$1C.0003": "sub_28_3",
+    "$1C.0004": "expressing doubt",
+    "$1C.0005": "sub_28_5",
+    "$1D.0000": "Help!",
+    "$1D.0001": "expressing certainty",
+    "$1D.0002": "This is unacceptable",
+    "$1D.0003": "arguing",
+    "$1E.0000": "neuroscience",
+    "$1E.0001": "I",
+    "$1F.0000": "Step one: install the dependencies",
+    "$1F.0001": "aggressiveness",
+    "$1F.0002": "sub_31_2",
+    "$20.0000": "two",
+    "$20.0001": "determination",
+    "$20.0002": "above",
+    "$21.0000": "The error occurs only when both conditions are true",
+    "$22.0000": "think",
+    "$23.0000": "The API returns a 500 error",
+    "$23.0001": "I was wrong about that",
+    "$23.0002": "disgust",
+    "$23.0003": "nostalgia",
+    "$23.0004": "die",
+    "$23.0005": "sub_35_5",
+    "$23.0006": "How do I calculate compound interest?",
+    "$23.0007": "sub_35_7",
+    "$23.0008": "can",
+    "$24.0000": "Let me think about this",
+    "$24.0001": "trust",
+    "$25.0000": "history",
+    "$25.0001": "Explain quantum computing",
+    "$25.0002": "Navigate to the settings page",
+    "$26.0000": "envy",
+    "$26.0001": "making a suggestion",
+    "$26.0002": "sub_38_2",
+    "$26.0003": "explaining",
+    "$26.0004": "sub_38_4",
+    "$27.0000": "What is the capital of France?",
+    "$27.0001": "fashion",
+    "$27.0002": "The performance is acceptable",
+    "$27.0003": "medicine",
+    "$28.0000": "side",
+    "$29.0000": "this",
+    "$29.0001": "sub_41_1",
+    "$29.0002": "requesting permission",
+    "$29.0003": "customer service",
+    "$29.0004": "expressing disagreement",
+    "$29.0005": "culture",
+    "$2A.0000": "expressing sympathy",
+    "$2A.0001": "near",
+    "$2B.0000": "shame",
+    "$2C.0000": "wellness",
+    "$2C.0001": "people",
+    "$2C.0002": "The test suite is failing",
+    "$2C.0003": "mental health",
+    "$2D.0000": "narrating",
+    "$2D.0001": "rejecting",
+    "$2D.0002": "I think this approach is better",
+    "$2E.0000": "operating system",
+    "$2E.0001": "machine learning",
+    "$2F.0000": "network architecture",
+    "$2F.0001": "praising",
+    "$30.0000": "someone",
+    "$30.0001": "here",
+    "$30.0002": "saying goodbye",
+    "$30.0003": "you",
+    "$30.0004": "Click the button on the top right",
+    "$30.0005": "inside",
+    "$30.0006": "sub_48_6",
+    "$31.0000": "sadness",
+    "$32.0000": "before",
+    "$32.0001": "What are the symptoms of diabetes?",
+    "$32.0002": "giving a command",
+    "$33.0000": "university",
+    "$33.0001": "surprise",
+    "$33.0002": "First, open the terminal",
+    "$33.0003": "anxiety",
+    "$34.0000": "strategy",
+    "$34.0001": "Run the following command",
+    "$34.0002": "outrage",
+    "$34.0003": "cynicism",
+    "$34.0004": "asking a question",
+    "$34.0005": "sub_52_5",
+    "$34.0006": "refusing",
+    "$34.0007": "cooking",
+    "$34.0008": "sub_52_8",
+    "$35.0000": "do",
+    "$35.0001": "making a statement",
+    "$35.0002": "offering an opinion",
+    "$35.0003": "sub_53_3",
+    "$35.0004": "sub_53_4",
+    "$35.0005": "curriculum",
+    "$35.0006": "nutrition",
+    "$35.0007": "accounting",
+    "$35.0008": "mobile app",
+    "$35.0009": "sub_53_9",
+    "$35.000A": "sub_53_10",
+    "$35.000B": "housing",
+    "$35.000C": "The cost is $29.99",
+    "$35.000D": "studying",
+    "$36.0000": "be (someone/something)",
+    "$36.0001": "empathy",
+    "$36.0002": "marketing",
+    "$37.0000": "something",
+    "$37.0001": "friendship",
+    "$37.0002": "curiosity",
+    "$38.0000": "describing",
+    "$38.0001": "It's been running for three days",
+    "$38.0002": "relationship",
+    "$39.0000": "I need assistance with something",
+    "$39.0001": "training",
+    "$3A.0000": "economics",
+    "$3B.0000": "grief",
+    "$3C.0000": "sub_60_0",
+    "$3C.0001": "say",
+    "$3C.0002": "because",
+    "$3D.0000": "accepting",
+    "$3D.0001": "much",
+    "$3D.0002": "sub_61_2",
+    "$3D.0003": "sub_61_3",
+    "$3D.0004": "sub_61_4",
+    "$3D.0005": "ethics",
+    "$3D.0006": "many",
+    "$3D.0007": "I disagree with that assessment",
+    "$3D.0008": "criticizing",
+    "$3D.0009": "genetics",
+    "$3D.000A": "moment",
+    "$3D.000B": "delight",
+    "$3D.000C": "sub_61_12",
+    "$3D.000D": "sub_61_13",
+    "$3D.000E": "entrepreneurship",
+    "$3D.000F": "fear",
+    "$3D.0010": "philosophy",
+    "$3D.0011": "sub_61_17",
+    "$3D.0012": "serenity",
+    "$3D.0013": "negotiating",
+    "$3D.0014": "writing",
+    "$3D.0015": "sub_61_21",
+    "$3D.0016": "sub_61_22",
+    "$3E.0000": "sub_62_0",
+    "$3E.0001": "relief",
+    "$3E.0002": "Can you repeat that?",
+    "$3F.0000": "The meeting is in two hours"
+  },
+  "l1_examples": {
+    "$00": [
+      "feel",
+      "words",
+      "guilt",
+      "morbidness",
+      "irritation"
+    ],
+    "$01": [
+      "have"
+    ],
+    "$02": [
+      "some",
+      "good",
+      "now",
+      "anticipation",
+      "despair"
+    ],
+    "$03": [
+      "move",
+      "summarizing",
+      "chemistry"
+    ],
+    "$04": [
+      "jealousy"
+    ],
+    "$05": [
+      "not",
+      "disapproval",
+      "happiness",
+      "boredom",
+      "greeting"
+    ],
+    "$06": [
+      "bittersweetness",
+      "instructing",
+      "version control"
+    ],
+    "$07": [
+      "climate science",
+      "The function is throwing an error",
+      "How does photosynthesis work?"
+    ],
+    "$08": [
+      "bad",
+      "cybersecurity",
+      "film",
+      "Either option A or option B will work"
+    ],
+    "$09": [
+      "submission",
+      "frustration",
+      "The temperature is very high"
+    ],
+    "$0A": [
+      "pride",
+      "healthcare"
+    ],
+    "$0B": [
+      "small",
+      "architecture"
+    ],
+    "$0C": [
+      "remorse"
+    ],
+    "$0D": [
+      "far",
+      "optimism",
+      "clarifying",
+      "inviting",
+      "artificial intelligence"
+    ],
+    "$0E": [
+      "want",
+      "hear",
+      "live",
+      "congratulating",
+      "software development"
+    ],
+    "$0F": [
+      "astronomy",
+      "This is amazing!"
+    ],
+    "$10": [
+      "be (somewhere)",
+      "a short time",
+      "maybe",
+      "hope",
+      "expressing agreement"
+    ],
+    "$11": [
+      "loneliness"
+    ],
+    "$12": [
+      "complaining",
+      "project management",
+      "art",
+      "The quality could be improved"
+    ],
+    "$13": [
+      "true",
+      "after",
+      "very",
+      "enthusiasm",
+      "request for help"
+    ],
+    "$14": [
+      "know",
+      "below",
+      "gratitude"
+    ],
+    "$15": [
+      "other",
+      "one",
+      "all",
+      "see",
+      "for some time"
+    ],
+    "$16": [
+      "love",
+      "programming",
+      "politics",
+      "The object is above the table",
+      "It's far away from here"
+    ],
+    "$17": [
+      "happen",
+      "when",
+      "This is the best solution I've seen"
+    ],
+    "$18": [
+      "body",
+      "the same",
+      "big",
+      "don't want",
+      "there is"
+    ],
+    "$19": [
+      "touch",
+      "contentment",
+      "expressing preference"
+    ],
+    "$1A": [
+      "where",
+      "embarrassment",
+      "This happened yesterday"
+    ],
+    "$1B": [
+      "reporting"
+    ],
+    "$1C": [
+      "anger",
+      "threatening",
+      "giving permission",
+      "expressing doubt",
+      "making a comparison"
+    ],
+    "$1D": [
+      "arguing",
+      "expressing certainty",
+      "Help!",
+      "This is unacceptable"
+    ],
+    "$1E": [
+      "I",
+      "neuroscience"
+    ],
+    "$1F": [
+      "aggressiveness",
+      "Please fix this immediately",
+      "Step one: install the dependencies"
+    ],
+    "$20": [
+      "two",
+      "above",
+      "determination"
+    ],
+    "$21": [
+      "The error occurs only when both conditions are true"
+    ],
+    "$22": [
+      "think"
+    ],
+    "$23": [
+      "die",
+      "can",
+      "disgust",
+      "nostalgia",
+      "photography"
+    ],
+    "$24": [
+      "trust",
+      "Let me think about this"
+    ],
+    "$25": [
+      "history",
+      "Explain quantum computing",
+      "Navigate to the settings page"
+    ],
+    "$26": [
+      "envy",
+      "making a suggestion",
+      "explaining",
+      "data science",
+      "That's a good point"
+    ],
+    "$27": [
+      "medicine",
+      "fashion",
+      "What is the capital of France?",
+      "The performance is acceptable"
+    ],
+    "$28": [
+      "side"
+    ],
+    "$29": [
+      "this",
+      "expressing disagreement",
+      "requesting permission",
+      "customer service",
+      "learning"
+    ],
+    "$2A": [
+      "near",
+      "expressing sympathy"
+    ],
+    "$2B": [
+      "shame"
+    ],
+    "$2C": [
+      "people",
+      "mental health",
+      "wellness",
+      "The test suite is failing"
+    ],
+    "$2D": [
+      "narrating",
+      "rejecting",
+      "I think this approach is better"
+    ],
+    "$2E": [
+      "machine learning",
+      "operating system"
+    ],
+    "$2F": [
+      "praising",
+      "network architecture"
+    ],
+    "$30": [
+      "you",
+      "someone",
+      "here",
+      "inside",
+      "saying goodbye"
+    ],
+    "$31": [
+      "sadness"
+    ],
+    "$32": [
+      "before",
+      "giving a command",
+      "What are the symptoms of diabetes?"
+    ],
+    "$33": [
+      "surprise",
+      "anxiety",
+      "university",
+      "First, open the terminal"
+    ],
+    "$34": [
+      "cynicism",
+      "outrage",
+      "asking a question",
+      "refusing",
+      "finance"
+    ],
+    "$35": [
+      "do",
+      "awe",
+      "making a statement",
+      "offering an opinion",
+      "thanking"
+    ],
+    "$36": [
+      "be (someone/something)",
+      "empathy",
+      "marketing"
+    ],
+    "$37": [
+      "something",
+      "curiosity",
+      "friendship"
+    ],
+    "$38": [
+      "describing",
+      "relationship",
+      "It's been running for three days"
+    ],
+    "$39": [
+      "training",
+      "I need assistance with something"
+    ],
+    "$3A": [
+      "economics"
+    ],
+    "$3B": [
+      "grief"
+    ],
+    "$3C": [
+      "say",
+      "a long time",
+      "because"
+    ],
+    "$3D": [
+      "much",
+      "many",
+      "moment",
+      "fear",
+      "delight"
+    ],
+    "$3E": [
+      "relief",
+      "I feel great about the progress",
+      "Can you repeat that?"
+    ],
+    "$3F": [
+      "The meeting is in two hours"
+    ]
+  },
+  "l2_examples": {
+    "$00.0000": [
+      "words"
+    ],
+    "$00.0001": [],
+    "$00.0002": [
+      "feel",
+      "guilt",
+      "diagnosis"
+    ],
+    "$00.0003": [
+      "transportation"
+    ],
+    "$00.0004": [
+      "morbidness"
+    ],
+    "$00.0005": [
+      "irritation"
+    ],
+    "$00.0006": [],
+    "$01.0000": [
+      "have"
+    ],
+    "$02.0000": [
+      "anticipation",
+      "despair"
+    ],
+    "$02.0001": [
+      "physics"
+    ],
+    "$02.0002": [
+      "exercise"
+    ],
+    "$02.0003": [
+      "expressing surprise",
+      "teaching"
+    ],
+    "$02.0004": [
+      "Move it to the right"
+    ],
+    "$02.0005": [
+      "sentimentality"
+    ],
+    "$02.0006": [],
+    "$02.0007": [
+      "now"
+    ],
+    "$02.0008": [
+      "good"
+    ],
+    "$02.0009": [
+      "Would you mind taking a look?"
+    ],
+    "$02.000A": [
+      "some"
+    ],
+    "$02.000B": [],
+    "$03.0000": [
+      "chemistry"
+    ],
+    "$03.0001": [
+      "summarizing"
+    ],
+    "$03.0002": [
+      "move"
+    ],
+    "$04.0000": [
+      "jealousy"
+    ],
+    "$05.0000": [
+      "requesting information"
+    ],
+    "$05.0001": [
+      "not"
+    ],
+    "$05.0002": [
+      "disapproval",
+      "The database query is too slow"
+    ],
+    "$05.0003": [
+      "boredom"
+    ],
+    "$05.0004": [
+      "greeting"
+    ],
+    "$05.0005": [
+      "weather"
+    ],
+    "$05.0006": [
+      "happiness"
+    ],
+    "$05.0007": [
+      "It's located on the left side"
+    ],
+    "$05.0008": [],
+    "$06.0000": [
+      "bittersweetness"
+    ],
+    "$06.0001": [
+      "instructing"
+    ],
+    "$06.0002": [
+      "version control"
+    ],
+    "$07.0000": [
+      "climate science"
+    ],
+    "$07.0001": [
+      "How does photosynthesis work?"
+    ],
+    "$07.0002": [
+      "The function is throwing an error"
+    ],
+    "$08.0000": [
+      "film"
+    ],
+    "$08.0001": [
+      "cybersecurity"
+    ],
+    "$08.0002": [
+      "Either option A or option B will work"
+    ],
+    "$08.0003": [
+      "bad"
+    ],
+    "$09.0000": [
+      "The temperature is very high"
+    ],
+    "$09.0001": [
+      "submission",
+      "frustration"
+    ],
+    "$09.0002": [],
+    "$0A.0000": [
+      "healthcare"
+    ],
+    "$0A.0001": [
+      "pride"
+    ],
+    "$0B.0000": [
+      "architecture"
+    ],
+    "$0B.0001": [
+      "small"
+    ],
+    "$0C.0000": [
+      "remorse"
+    ],
+    "$0D.0000": [
+      "far",
+      "optimism",
+      "clarifying"
+    ],
+    "$0D.0001": [],
+    "$0D.0002": [
+      "There are approximately 500 items"
+    ],
+    "$0D.0003": [
+      "inviting"
+    ],
+    "$0D.0004": [],
+    "$0D.0005": [
+      "artificial intelligence"
+    ],
+    "$0E.0000": [
+      "want"
+    ],
+    "$0E.0001": [
+      "hear"
+    ],
+    "$0E.0002": [],
+    "$0E.0003": [
+      "live",
+      "software development"
+    ],
+    "$0E.0004": [
+      "congratulating"
+    ],
+    "$0F.0000": [
+      "This is amazing!"
+    ],
+    "$0F.0001": [
+      "astronomy"
+    ],
+    "$10.0000": [],
+    "$10.0001": [
+      "making a prediction"
+    ],
+    "$10.0002": [
+      "maybe",
+      "If this fails, try the alternative"
+    ],
+    "$10.0003": [],
+    "$10.0004": [],
+    "$10.0005": [
+      "expressing agreement",
+      "database query",
+      "mathematics"
+    ],
+    "$10.0006": [
+      "be (somewhere)"
+    ],
+    "$10.0007": [
+      "a short time"
+    ],
+    "$10.0008": [
+      "hope"
+    ],
+    "$10.0009": [
+      "debugging code"
+    ],
+    "$10.000A": [
+      "design"
+    ],
+    "$10.000B": [],
+    "$10.000C": [
+      "apologizing"
+    ],
+    "$11.0000": [
+      "loneliness"
+    ],
+    "$12.0000": [
+      "art"
+    ],
+    "$12.0001": [
+      "complaining"
+    ],
+    "$12.0002": [
+      "project management"
+    ],
+    "$12.0003": [
+      "The quality could be improved"
+    ],
+    "$13.0000": [
+      "after",
+      "enthusiasm"
+    ],
+    "$13.0001": [
+      "shopping"
+    ],
+    "$13.0002": [
+      "web development"
+    ],
+    "$13.0003": [
+      "true"
+    ],
+    "$13.0004": [
+      "request for help"
+    ],
+    "$13.0005": [
+      "very"
+    ],
+    "$13.0006": [
+      "warning"
+    ],
+    "$13.0007": [],
+    "$14.0000": [
+      "know"
+    ],
+    "$14.0001": [
+      "gratitude"
+    ],
+    "$14.0002": [
+      "below"
+    ],
+    "$15.0000": [
+      "more"
+    ],
+    "$15.0001": [
+      "research"
+    ],
+    "$15.0002": [],
+    "$15.0003": [
+      "other"
+    ],
+    "$15.0004": [
+      "Can you help me with this?",
+      "I need to refactor this code"
+    ],
+    "$15.0005": [
+      "see"
+    ],
+    "$15.0006": [
+      "one",
+      "all",
+      "if"
+    ],
+    "$15.0007": [
+      "More than half of the users"
+    ],
+    "$15.0008": [],
+    "$15.0009": [
+      "biology"
+    ],
+    "$15.000A": [
+      "cloud computing"
+    ],
+    "$15.000B": [],
+    "$15.000C": [
+      "It will be ready by tomorrow"
+    ],
+    "$15.000D": [
+      "ecology"
+    ],
+    "$15.000E": [
+      "promising"
+    ],
+    "$15.000F": [],
+    "$15.0010": [
+      "homework"
+    ],
+    "$15.0011": [
+      "for some time"
+    ],
+    "$15.0012": [
+      "The deadline was last week"
+    ],
+    "$15.0013": [],
+    "$15.0014": [
+      "confirming",
+      "religion"
+    ],
+    "$15.0015": [],
+    "$16.0000": [
+      "love",
+      "It's far away from here"
+    ],
+    "$16.0001": [
+      "programming",
+      "politics"
+    ],
+    "$16.0002": [],
+    "$16.0003": [],
+    "$16.0004": [
+      "The object is above the table"
+    ],
+    "$16.0005": [
+      "It decreased by 15 percent"
+    ],
+    "$17.0000": [
+      "This is the best solution I've seen"
+    ],
+    "$17.0001": [
+      "happen",
+      "when"
+    ],
+    "$17.0002": [],
+    "$18.0000": [
+      "API design",
+      "This is not what I expected"
+    ],
+    "$18.0001": [
+      "body"
+    ],
+    "$18.0002": [
+      "like (similar)"
+    ],
+    "$18.0003": [
+      "confusion"
+    ],
+    "$18.0004": [
+      "big"
+    ],
+    "$18.0005": [
+      "don't want"
+    ],
+    "$18.0006": [
+      "the same"
+    ],
+    "$18.0007": [
+      "management",
+      "literature"
+    ],
+    "$18.0008": [
+      "there is"
+    ],
+    "$18.0009": [
+      "Memory usage is increasing over time"
+    ],
+    "$18.000A": [
+      "sales",
+      "environment"
+    ],
+    "$18.000B": [
+      "travel"
+    ],
+    "$18.000C": [
+      "dominance"
+    ],
+    "$18.000D": [
+      "fatalism"
+    ],
+    "$18.000E": [
+      "law"
+    ],
+    "$18.000F": [],
+    "$18.0010": [
+      "excitement"
+    ],
+    "$18.0011": [],
+    "$18.0012": [
+      "work"
+    ],
+    "$18.0013": [],
+    "$19.0000": [
+      "expressing preference"
+    ],
+    "$19.0001": [
+      "touch",
+      "contentment"
+    ],
+    "$19.0002": [],
+    "$1A.0000": [
+      "where"
+    ],
+    "$1A.0001": [
+      "embarrassment"
+    ],
+    "$1A.0002": [
+      "This happened yesterday"
+    ],
+    "$1B.0000": [
+      "reporting"
+    ],
+    "$1C.0000": [
+      "anger",
+      "threatening",
+      "giving permission"
+    ],
+    "$1C.0001": [
+      "family"
+    ],
+    "$1C.0002": [],
+    "$1C.0003": [],
+    "$1C.0004": [
+      "expressing doubt"
+    ],
+    "$1C.0005": [],
+    "$1D.0000": [
+      "Help!"
+    ],
+    "$1D.0001": [
+      "expressing certainty"
+    ],
+    "$1D.0002": [
+      "This is unacceptable"
+    ],
+    "$1D.0003": [
+      "arguing"
+    ],
+    "$1E.0000": [
+      "neuroscience"
+    ],
+    "$1E.0001": [
+      "I"
+    ],
+    "$1F.0000": [
+      "Step one: install the dependencies"
+    ],
+    "$1F.0001": [
+      "aggressiveness",
+      "Please fix this immediately"
+    ],
+    "$1F.0002": [],
+    "$20.0000": [
+      "two"
+    ],
+    "$20.0001": [
+      "determination"
+    ],
+    "$20.0002": [
+      "above"
+    ],
+    "$21.0000": [
+      "The error occurs only when both conditions are true"
+    ],
+    "$22.0000": [
+      "think"
+    ],
+    "$23.0000": [
+      "The API returns a 500 error"
+    ],
+    "$23.0001": [
+      "I was wrong about that"
+    ],
+    "$23.0002": [
+      "disgust"
+    ],
+    "$23.0003": [
+      "nostalgia"
+    ],
+    "$23.0004": [
+      "die",
+      "photography",
+      "The smallest possible value"
+    ],
+    "$23.0005": [],
+    "$23.0006": [
+      "How do I calculate compound interest?"
+    ],
+    "$23.0007": [],
+    "$23.0008": [
+      "can"
+    ],
+    "$24.0000": [
+      "Let me think about this"
+    ],
+    "$24.0001": [
+      "trust"
+    ],
+    "$25.0000": [
+      "history"
+    ],
+    "$25.0001": [
+      "Explain quantum computing"
+    ],
+    "$25.0002": [
+      "Navigate to the settings page"
+    ],
+    "$26.0000": [
+      "envy"
+    ],
+    "$26.0001": [
+      "making a suggestion"
+    ],
+    "$26.0002": [],
+    "$26.0003": [
+      "explaining",
+      "data science",
+      "That's a good point"
+    ],
+    "$26.0004": [],
+    "$27.0000": [
+      "What is the capital of France?"
+    ],
+    "$27.0001": [
+      "fashion"
+    ],
+    "$27.0002": [
+      "The performance is acceptable"
+    ],
+    "$27.0003": [
+      "medicine"
+    ],
+    "$28.0000": [
+      "side"
+    ],
+    "$29.0000": [
+      "this"
+    ],
+    "$29.0001": [],
+    "$29.0002": [
+      "requesting permission",
+      "learning"
+    ],
+    "$29.0003": [
+      "customer service"
+    ],
+    "$29.0004": [
+      "expressing disagreement"
+    ],
+    "$29.0005": [
+      "culture"
+    ],
+    "$2A.0000": [
+      "expressing sympathy"
+    ],
+    "$2A.0001": [
+      "near"
+    ],
+    "$2B.0000": [
+      "shame"
+    ],
+    "$2C.0000": [
+      "wellness"
+    ],
+    "$2C.0001": [
+      "people"
+    ],
+    "$2C.0002": [
+      "The test suite is failing"
+    ],
+    "$2C.0003": [
+      "mental health"
+    ],
+    "$2D.0000": [
+      "narrating"
+    ],
+    "$2D.0001": [
+      "rejecting"
+    ],
+    "$2D.0002": [
+      "I think this approach is better"
+    ],
+    "$2E.0000": [
+      "operating system"
+    ],
+    "$2E.0001": [
+      "machine learning"
+    ],
+    "$2F.0000": [
+      "network architecture"
+    ],
+    "$2F.0001": [
+      "praising"
+    ],
+    "$30.0000": [
+      "someone"
+    ],
+    "$30.0001": [
+      "here",
+      "I'm really frustrated with this"
+    ],
+    "$30.0002": [
+      "saying goodbye"
+    ],
+    "$30.0003": [
+      "you"
+    ],
+    "$30.0004": [
+      "Click the button on the top right"
+    ],
+    "$30.0005": [
+      "inside"
+    ],
+    "$30.0006": [],
+    "$31.0000": [
+      "sadness"
+    ],
+    "$32.0000": [
+      "before"
+    ],
+    "$32.0001": [
+      "What are the symptoms of diabetes?"
+    ],
+    "$32.0002": [
+      "giving a command"
+    ],
+    "$33.0000": [
+      "university"
+    ],
+    "$33.0001": [
+      "surprise"
+    ],
+    "$33.0002": [
+      "First, open the terminal"
+    ],
+    "$33.0003": [
+      "anxiety"
+    ],
+    "$34.0000": [
+      "strategy"
+    ],
+    "$34.0001": [
+      "Run the following command"
+    ],
+    "$34.0002": [
+      "outrage"
+    ],
+    "$34.0003": [
+      "cynicism",
+      "finance",
+      "music"
+    ],
+    "$34.0004": [
+      "asking a question"
+    ],
+    "$34.0005": [],
+    "$34.0006": [
+      "refusing"
+    ],
+    "$34.0007": [
+      "cooking"
+    ],
+    "$34.0008": [],
+    "$35.0000": [
+      "do",
+      "awe",
+      "thanking"
+    ],
+    "$35.0001": [
+      "making a statement"
+    ],
+    "$35.0002": [
+      "offering an opinion"
+    ],
+    "$35.0003": [],
+    "$35.0004": [],
+    "$35.0005": [
+      "curriculum"
+    ],
+    "$35.0006": [
+      "nutrition",
+      "I don't understand what you mean"
+    ],
+    "$35.0007": [
+      "accounting"
+    ],
+    "$35.0008": [
+      "mobile app"
+    ],
+    "$35.0009": [],
+    "$35.000A": [],
+    "$35.000B": [
+      "housing"
+    ],
+    "$35.000C": [
+      "The cost is $29.99"
+    ],
+    "$35.000D": [
+      "studying",
+      "justice"
+    ],
+    "$36.0000": [
+      "be (someone/something)"
+    ],
+    "$36.0001": [
+      "empathy"
+    ],
+    "$36.0002": [
+      "marketing"
+    ],
+    "$37.0000": [
+      "something"
+    ],
+    "$37.0001": [
+      "friendship"
+    ],
+    "$37.0002": [
+      "curiosity"
+    ],
+    "$38.0000": [
+      "describing"
+    ],
+    "$38.0001": [
+      "It's been running for three days"
+    ],
+    "$38.0002": [
+      "relationship"
+    ],
+    "$39.0000": [
+      "I need assistance with something"
+    ],
+    "$39.0001": [
+      "training"
+    ],
+    "$3A.0000": [
+      "economics"
+    ],
+    "$3B.0000": [
+      "grief"
+    ],
+    "$3C.0000": [],
+    "$3C.0001": [
+      "say",
+      "a long time"
+    ],
+    "$3C.0002": [
+      "because"
+    ],
+    "$3D.0000": [
+      "accepting"
+    ],
+    "$3D.0001": [
+      "much"
+    ],
+    "$3D.0002": [],
+    "$3D.0003": [],
+    "$3D.0004": [],
+    "$3D.0005": [
+      "ethics"
+    ],
+    "$3D.0006": [
+      "many"
+    ],
+    "$3D.0007": [
+      "I disagree with that assessment"
+    ],
+    "$3D.0008": [
+      "criticizing",
+      "disease",
+      "treatment"
+    ],
+    "$3D.0009": [
+      "genetics"
+    ],
+    "$3D.000A": [
+      "moment"
+    ],
+    "$3D.000B": [
+      "delight",
+      "persuading",
+      "denying"
+    ],
+    "$3D.000C": [],
+    "$3D.000D": [],
+    "$3D.000E": [
+      "entrepreneurship"
+    ],
+    "$3D.000F": [
+      "fear"
+    ],
+    "$3D.0010": [
+      "philosophy"
+    ],
+    "$3D.0011": [],
+    "$3D.0012": [
+      "serenity",
+      "I'm confused about how this works",
+      "I'm worried about the deadline"
+    ],
+    "$3D.0013": [
+      "negotiating",
+      "The deployment pipeline is broken"
+    ],
+    "$3D.0014": [
+      "writing"
+    ],
+    "$3D.0015": [],
+    "$3D.0016": [],
+    "$3E.0000": [],
+    "$3E.0001": [
+      "relief",
+      "I feel great about the progress"
+    ],
+    "$3E.0002": [
+      "Can you repeat that?"
+    ],
+    "$3F.0000": [
+      "The meeting is in two hours"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "version": "1.0",
+  "n_regions": 8192,
+  "n_sentences": 88965,
+  "dimensions": 64,
+  "bits_per_dim": 4,
+  "total_bits": 256,
+  "hex_chars": 64,
+  "embedding_model": "text-embedding-3-small",
+  "embedding_dims": 64,
+  "reconstruction_similarity": 0.991,
+  "timestamp": "2026-03-30T17:54:55Z"
+}

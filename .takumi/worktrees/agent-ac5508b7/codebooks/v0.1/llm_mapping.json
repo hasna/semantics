@@ -1,0 +1,2546 @@
+{
+  "categories": [
+    {
+      "hex": "$00",
+      "label": "Self Reference",
+      "concepts": [
+        "I"
+      ],
+      "subcategories": []
+    },
+    {
+      "hex": "$01",
+      "label": "Second Person",
+      "concepts": [
+        "you"
+      ],
+      "subcategories": []
+    },
+    {
+      "hex": "$02",
+      "label": "Indefinite Person",
+      "concepts": [
+        "someone",
+        "people"
+      ],
+      "subcategories": [
+        {
+          "index": 0,
+          "label": "Individual Entity",
+          "concepts": [
+            "someone"
+          ]
+        },
+        {
+          "index": 1,
+          "label": "Group Entity",
+          "concepts": [
+            "people"
+          ]
+        }
+      ]
+    },
+    {
+      "hex": "$03",
+      "label": "Indefinite Thing",
+      "concepts": [
+        "something"
+      ],
+      "subcategories": []
+    },
+    {
+      "hex": "$04",
+      "label": "Body",
+      "concepts": [
+        "body"
+      ],
+      "subcategories": []
+    },
+    {
+      "hex": "$05",
+      "label": "Demonstrative",
+      "concepts": [
+        "this"
+      ],
+      "subcategories": []
+    },
+    {
+      "hex": "$06",
+      "label": "Identity",
+      "concepts": [
+        "the same"
+      ],
+      "subcategories": []
+    },
+    {
+      "hex": "$07",
+      "label": "Difference",
+      "concepts": [
+        "other"
+      ],
+      "subcategories": []
+    },
+    {
+      "hex": "$08",
+      "label": "Number One",
+      "concepts": [
+        "one"
+      ],
+      "subcategories": []
+    },
+    {
+      "hex": "$09",
+      "label": "Number Two",
+      "concepts": [
+        "two"
+      ],
+      "subcategories": []
+    },
+    {
+      "hex": "$0A",
+      "label": "Quantity Some",
+      "concepts": [
+        "some",
+        "many",
+        "much"
+      ],
+      "subcategories": [
+        {
+          "index": 0,
+          "label": "Indefinite Quantity",
+          "concepts": [
+            "some"
+          ]
+        },
+        {
+          "index": 1,
+          "label": "Large Countable Quantity",
+          "concepts": [
+            "many"
+          ]
+        },
+        {
+          "index": 2,
+          "label": "Large Uncountable Quantity",
+          "concepts": [
+            "much"
+          ]
+        }
+      ]
+    },
+    {
+      "hex": "$0B",
+      "label": "Quantity All",
+      "concepts": [
+        "all"
+      ],
+      "subcategories": []
+    },
+    {
+      "hex": "$0C",
+      "label": "Good",
+      "concepts": [
+        "good"
+      ],
+      "subcategories": []
+    },
+    {
+      "hex": "$0D",
+      "label": "Bad",
+      "concepts": [
+        "bad"
+      ],
+      "subcategories": []
+    },
+    {
+      "hex": "$0E",
+      "label": "Size Big",
+      "concepts": [
+        "big"
+      ],
+      "subcategories": []
+    },
+    {
+      "hex": "$0F",
+      "label": "Size Small",
+      "concepts": [
+        "small"
+      ],
+      "subcategories": []
+    },
+    {
+      "hex": "$10",
+      "label": "Cognition",
+      "concepts": [
+        "think",
+        "know",
+        "understand",
+        "I don't understand what you mean",
+        "Can you repeat that?",
+        "Let me think about this",
+        "That's a good point",
+        "I was wrong about that"
+      ],
+      "subcategories": [
+        {
+          "index": 0,
+          "label": "Initiating Thought Process",
+          "concepts": [
+            "think",
+            "Let me think about this"
+          ]
+        },
+        {
+          "index": 1,
+          "label": "Asserting Knowledge",
+          "concepts": [
+            "know",
+            "understand"
+          ]
+        },
+        {
+          "index": 2,
+          "label": "Expressing Confusion",
+          "concepts": [
+            "I don't understand what you mean",
+            "Can you repeat that?"
+          ]
+        },
+        {
+          "index": 3,
+          "label": "Acknowledging Validity",
+          "concepts": [
+            "That's a good point"
+          ]
+        },
+        {
+          "index": 4,
+          "label": "Admitting Error",
+          "concepts": [
+            "I was wrong about that"
+          ]
+        },
+        {
+          "index": 5,
+          "label": "Reflective Thinking",
+          "concepts": []
+        },
+        {
+          "index": 6,
+          "label": "Evaluating Information",
+          "concepts": []
+        },
+        {
+          "index": 7,
+          "label": "Seeking Clarification",
+          "concepts": []
+        }
+      ]
+    },
+    {
+      "hex": "$11",
+      "label": "Desire",
+      "concepts": [
+        "want",
+        "don't want"
+      ],
+      "subcategories": [
+        {
+          "index": 0,
+          "label": "Positive Desire",
+          "concepts": [
+            "want"
+          ]
+        },
+        {
+          "index": 1,
+          "label": "Negative Desire",
+          "concepts": [
+            "don't want"
+          ]
+        }
+      ]
+    },
+    {
+      "hex": "$12",
+      "label": "Emotion Core",
+      "concepts": [
+        "feel",
+        "joy",
+        "trust",
+        "fear",
+        "surprise",
+        "sadness",
+        "disgust",
+        "anger",
+        "anticipation",
+        "love",
+        "submission",
+        "awe",
+        "disapproval",
+        "remorse",
+        "contempt",
+        "aggressiveness",
+        "optimism",
+        "guilt",
+        "delight",
+        "curiosity",
+        "despair",
+        "envy",
+        "cynicism",
+        "pride",
+        "hope",
+        "anxiety",
+        "shame",
+        "morbidness",
+        "dominance",
+        "sentimentality",
+        "outrage",
+        "bittersweetness",
+        "fatalism",
+        "happiness",
+        "frustration",
+        "excitement",
+        "boredom",
+        "loneliness",
+        "gratitude",
+        "empathy",
+        "nostalgia",
+        "confusion",
+        "determination",
+        "relief",
+        "jealousy",
+        "embarrassment",
+        "contentment",
+        "grief",
+        "enthusiasm",
+        "serenity",
+        "irritation"
+      ],
+      "subcategories": [
+        {
+          "index": 0,
+          "label": "Joy and Positive Excitement",
+          "concepts": [
+            "joy",
+            "delight",
+            "happiness",
+            "enthusiasm",
+            "excitement"
+          ]
+        },
+        {
+          "index": 1,
+          "label": "Calm and Contentment",
+          "concepts": [
+            "serenity",
+            "contentment",
+            "relief",
+            "gratitude"
+          ]
+        },
+        {
+          "index": 2,
+          "label": "Love and Affection",
+          "concepts": [
+            "love",
+            "sentimentality",
+            "nostalgia",
+            "empathy"
+          ]
+        },
+        {
+          "index": 3,
+          "label": "Sadness and Loss",
+          "concepts": [
+            "sadness",
+            "grief",
+            "despair",
+            "loneliness",
+            "morbidness"
+          ]
+        },
+        {
+          "index": 4,
+          "label": "Anger and Hostility",
+          "concepts": [
+            "anger",
+            "irritation",
+            "outrage",
+            "aggressiveness",
+            "contempt"
+          ]
+        },
+        {
+          "index": 5,
+          "label": "Fear and Anxiety",
+          "concepts": [
+            "fear",
+            "anxiety",
+            "shame",
+            "embarrassment"
+          ]
+        },
+        {
+          "index": 6,
+          "label": "Disgust and Rejection",
+          "concepts": [
+            "disgust",
+            "cynicism",
+            "disapproval"
+          ]
+        },
+        {
+          "index": 7,
+          "label": "Anticipation and Curiosity",
+          "concepts": [
+            "anticipation",
+            "curiosity",
+            "confusion"
+          ]
+        },
+        {
+          "index": 8,
+          "label": "Hope and Optimism",
+          "concepts": [
+            "hope",
+            "optimism",
+            "determination"
+          ]
+        },
+        {
+          "index": 9,
+          "label": "Surprise and Confusion",
+          "concepts": [
+            "surprise",
+            "bittersweetness",
+            "confusion"
+          ]
+        },
+        {
+          "index": 10,
+          "label": "Guilt and Remorse",
+          "concepts": [
+            "guilt",
+            "remorse",
+            "shame"
+          ]
+        },
+        {
+          "index": 11,
+          "label": "Pride and Dominance",
+          "concepts": [
+            "pride",
+            "dominance",
+            "submission"
+          ]
+        },
+        {
+          "index": 12,
+          "label": "Envy and Jealousy",
+          "concepts": [
+            "envy",
+            "jealousy",
+            "bitterness"
+          ]
+        },
+        {
+          "index": 13,
+          "label": "Frustration and Irritation",
+          "concepts": [
+            "frustration",
+            "irritation",
+            "aggressiveness"
+          ]
+        },
+        {
+          "index": 14,
+          "label": "Awe and Wonder",
+          "concepts": [
+            "awe",
+            "amazement",
+            "surprise"
+          ]
+        },
+        {
+          "index": 15,
+          "label": "Resignation and Fatalism",
+          "concepts": [
+            "fatalism",
+            "despair",
+            "boredom"
+          ]
+        }
+      ]
+    },
+    {
+      "hex": "$13",
+      "label": "Perception",
+      "concepts": [
+        "see",
+        "hear"
+      ],
+      "subcategories": [
+        {
+          "index": 0,
+          "label": "Vision",
+          "concepts": [
+            "see"
+          ]
+        },
+        {
+          "index": 1,
+          "label": "Audition",
+          "concepts": [
+            "hear"
+          ]
+        }
+      ]
+    },
+    {
+      "hex": "$14",
+      "label": "Communication",
+      "concepts": [
+        "say",
+        "words",
+        "true",
+        "reporting",
+        "explaining",
+        "describing",
+        "narrating",
+        "arguing",
+        "persuading",
+        "negotiating",
+        "clarifying",
+        "summarizing",
+        "instructing",
+        "programming",
+        "software development",
+        "debugging code",
+        "database query",
+        "web development",
+        "mobile app",
+        "API design",
+        "cloud computing",
+        "machine learning",
+        "artificial intelligence",
+        "data science",
+        "cybersecurity",
+        "operating system",
+        "network architecture",
+        "version control"
+      ],
+      "subcategories": [
+        {
+          "index": 0,
+          "label": "Basic Verbal Expression",
+          "concepts": [
+            "say",
+            "words"
+          ]
+        },
+        {
+          "index": 1,
+          "label": "Truth and Accuracy",
+          "concepts": [
+            "true"
+          ]
+        },
+        {
+          "index": 2,
+          "label": "Information Reporting",
+          "concepts": [
+            "reporting",
+            "describing",
+            "narrating"
+          ]
+        },
+        {
+          "index": 3,
+          "label": "Explanation and Clarification",
+          "concepts": [
+            "explaining",
+            "clarifying",
+            "summarizing"
+          ]
+        },
+        {
+          "index": 4,
+          "label": "Argumentation and Persuasion",
+          "concepts": [
+            "arguing",
+            "persuading"
+          ]
+        },
+        {
+          "index": 5,
+          "label": "Interactive Dialogue",
+          "concepts": [
+            "negotiating"
+          ]
+        },
+        {
+          "index": 6,
+          "label": "Instruction and Teaching",
+          "concepts": [
+            "instructing"
+          ]
+        },
+        {
+          "index": 7,
+          "label": "Software Programming",
+          "concepts": [
+            "programming",
+            "debugging code"
+          ]
+        },
+        {
+          "index": 8,
+          "label": "Software Development",
+          "concepts": [
+            "software development",
+            "version control"
+          ]
+        },
+        {
+          "index": 9,
+          "label": "Web and Mobile Development",
+          "concepts": [
+            "web development",
+            "mobile app"
+          ]
+        },
+        {
+          "index": 10,
+          "label": "System and Interface Design",
+          "concepts": [
+            "API design",
+            "operating system",
+            "network architecture"
+          ]
+        },
+        {
+          "index": 11,
+          "label": "Data Management",
+          "concepts": [
+            "database query",
+            "data science"
+          ]
+        },
+        {
+          "index": 12,
+          "label": "Cloud Infrastructure",
+          "concepts": [
+            "cloud computing"
+          ]
+        },
+        {
+          "index": 13,
+          "label": "Artificial Intelligence",
+          "concepts": [
+            "artificial intelligence",
+            "machine learning"
+          ]
+        },
+        {
+          "index": 14,
+          "label": "Security",
+          "concepts": [
+            "cybersecurity"
+          ]
+        },
+        {
+          "index": 15,
+          "label": "Computational Communication",
+          "concepts": []
+        }
+      ]
+    },
+    {
+      "hex": "$15",
+      "label": "Action",
+      "concepts": [
+        "do",
+        "happen",
+        "move",
+        "live",
+        "die",
+        "run the following command",
+        "click the button on the top right",
+        "navigate to the settings page",
+        "first, open the terminal",
+        "step one: install the dependencies"
+      ],
+      "subcategories": [
+        {
+          "index": 0,
+          "label": "Basic Actions",
+          "concepts": [
+            "do",
+            "happen"
+          ]
+        },
+        {
+          "index": 1,
+          "label": "Motion",
+          "concepts": [
+            "move",
+            "run the following command"
+          ]
+        },
+        {
+          "index": 2,
+          "label": "Life Processes",
+          "concepts": [
+            "live",
+            "die"
+          ]
+        },
+        {
+          "index": 3,
+          "label": "User Interface Interaction",
+          "concepts": [
+            "click the button on the top right",
+            "navigate to the settings page"
+          ]
+        },
+        {
+          "index": 4,
+          "label": "System Operations",
+          "concepts": [
+            "first, open the terminal",
+            "step one: install the dependencies"
+          ]
+        },
+        {
+          "index": 5,
+          "label": "Execution Commands",
+          "concepts": [
+            "run the following command",
+            "step one: install the dependencies"
+          ]
+        },
+        {
+          "index": 6,
+          "label": "Initialization Steps",
+          "concepts": [
+            "first, open the terminal",
+            "navigate to the settings page"
+          ]
+        },
+        {
+          "index": 7,
+          "label": "Abstract Events",
+          "concepts": [
+            "happen",
+            "do"
+          ]
+        },
+        {
+          "index": 8,
+          "label": "Terminal Instructions",
+          "concepts": [
+            "first, open the terminal",
+            "run the following command"
+          ]
+        },
+        {
+          "index": 9,
+          "label": "Setup Procedures",
+          "concepts": [
+            "step one: install the dependencies",
+            "navigate to the settings page"
+          ]
+        }
+      ]
+    },
+    {
+      "hex": "$16",
+      "label": "Existence",
+      "concepts": [
+        "there is"
+      ],
+      "subcategories": []
+    },
+    {
+      "hex": "$17",
+      "label": "Location",
+      "concepts": [
+        "be (somewhere)",
+        "where",
+        "here",
+        "above",
+        "below",
+        "far",
+        "near",
+        "side",
+        "inside",
+        "it's located on the left side",
+        "the object is above the table",
+        "move it to the right",
+        "it's far away from here"
+      ],
+      "subcategories": [
+        {
+          "index": 0,
+          "label": "Existence in a Place",
+          "concepts": [
+            "be (somewhere)"
+          ]
+        },
+        {
+          "index": 1,
+          "label": "Question of Position",
+          "concepts": [
+            "where"
+          ]
+        },
+        {
+          "index": 2,
+          "label": "Proximity to Speaker",
+          "concepts": [
+            "here"
+          ]
+        },
+        {
+          "index": 3,
+          "label": "Vertical Position - Above",
+          "concepts": [
+            "above",
+            "the object is above the table"
+          ]
+        },
+        {
+          "index": 4,
+          "label": "Vertical Position - Below",
+          "concepts": [
+            "below"
+          ]
+        },
+        {
+          "index": 5,
+          "label": "Distance - Far",
+          "concepts": [
+            "far",
+            "it's far away from here"
+          ]
+        },
+        {
+          "index": 6,
+          "label": "Distance - Near",
+          "concepts": [
+            "near"
+          ]
+        },
+        {
+          "index": 7,
+          "label": "General Position - Side",
+          "concepts": [
+            "side"
+          ]
+        },
+        {
+          "index": 8,
+          "label": "Containment",
+          "concepts": [
+            "inside"
+          ]
+        },
+        {
+          "index": 9,
+          "label": "Left Orientation",
+          "concepts": [
+            "it's located on the left side"
+          ]
+        },
+        {
+          "index": 10,
+          "label": "Right Movement",
+          "concepts": [
+            "move it to the right"
+          ]
+        },
+        {
+          "index": 11,
+          "label": "Directional Reference - Left",
+          "concepts": []
+        },
+        {
+          "index": 12,
+          "label": "Directional Reference - Right",
+          "concepts": []
+        }
+      ]
+    },
+    {
+      "hex": "$18",
+      "label": "Possession",
+      "concepts": [
+        "have"
+      ],
+      "subcategories": []
+    },
+    {
+      "hex": "$19",
+      "label": "Identity Be",
+      "concepts": [
+        "be (someone/something)"
+      ],
+      "subcategories": []
+    },
+    {
+      "hex": "$1A",
+      "label": "Time When",
+      "concepts": [
+        "when",
+        "this happened yesterday",
+        "it will be ready by tomorrow",
+        "the meeting is in two hours",
+        "it's been running for three days",
+        "the deadline was last week"
+      ],
+      "subcategories": [
+        {
+          "index": 0,
+          "label": "Present Reference",
+          "concepts": [
+            "when"
+          ]
+        },
+        {
+          "index": 1,
+          "label": "Recent Past",
+          "concepts": [
+            "the deadline was last week"
+          ]
+        },
+        {
+          "index": 2,
+          "label": "Immediate Past",
+          "concepts": [
+            "this happened yesterday"
+          ]
+        },
+        {
+          "index": 3,
+          "label": "Near Future",
+          "concepts": [
+            "it will be ready by tomorrow"
+          ]
+        },
+        {
+          "index": 4,
+          "label": "Short-Term Duration",
+          "concepts": [
+            "it's been running for three days"
+          ]
+        },
+        {
+          "index": 5,
+          "label": "Immediate Future",
+          "concepts": [
+            "the meeting is in two hours"
+          ]
+        }
+      ]
+    },
+    {
+      "hex": "$1B",
+      "label": "Time Now",
+      "concepts": [
+        "now"
+      ],
+      "subcategories": []
+    },
+    {
+      "hex": "$1C",
+      "label": "Time Before",
+      "concepts": [
+        "before"
+      ],
+      "subcategories": []
+    },
+    {
+      "hex": "$1D",
+      "label": "Time After",
+      "concepts": [
+        "after"
+      ],
+      "subcategories": []
+    },
+    {
+      "hex": "$1E",
+      "label": "Duration Long",
+      "concepts": [
+        "a long time"
+      ],
+      "subcategories": []
+    },
+    {
+      "hex": "$1F",
+      "label": "Duration Short",
+      "concepts": [
+        "a short time"
+      ],
+      "subcategories": []
+    },
+    {
+      "hex": "$20",
+      "label": "Duration Some",
+      "concepts": [
+        "for some time",
+        "moment"
+      ],
+      "subcategories": [
+        {
+          "index": 0,
+          "label": "Temporary Duration",
+          "concepts": [
+            "for some time"
+          ]
+        },
+        {
+          "index": 1,
+          "label": "Instantaneous Point in Time",
+          "concepts": [
+            "moment"
+          ]
+        }
+      ]
+    },
+    {
+      "hex": "$21",
+      "label": "Contact",
+      "concepts": [
+        "touch"
+      ],
+      "subcategories": []
+    },
+    {
+      "hex": "$22",
+      "label": "Negation",
+      "concepts": [
+        "not",
+        "this is not what I expected"
+      ],
+      "subcategories": [
+        {
+          "index": 0,
+          "label": "Basic Negation",
+          "concepts": [
+            "not"
+          ]
+        },
+        {
+          "index": 1,
+          "label": "Expressive Disappointment",
+          "concepts": [
+            "this is not what I expected"
+          ]
+        }
+      ]
+    },
+    {
+      "hex": "$23",
+      "label": "Possibility",
+      "concepts": [
+        "maybe",
+        "it might work but I'm not sure"
+      ],
+      "subcategories": [
+        {
+          "index": 0,
+          "label": "Uncertain Affirmation",
+          "concepts": [
+            "it might work but I'm not sure"
+          ]
+        },
+        {
+          "index": 1,
+          "label": "Open Possibility",
+          "concepts": [
+            "maybe"
+          ]
+        }
+      ]
+    },
+    {
+      "hex": "$24",
+      "label": "Ability",
+      "concepts": [
+        "can"
+      ],
+      "subcategories": []
+    },
+    {
+      "hex": "$25",
+      "label": "Causality",
+      "concepts": [
+        "because"
+      ],
+      "subcategories": []
+    },
+    {
+      "hex": "$26",
+      "label": "Condition",
+      "concepts": [
+        "if",
+        "if this fails, try the alternative",
+        "the error occurs only when both conditions are true"
+      ],
+      "subcategories": [
+        {
+          "index": 0,
+          "label": "Basic Conditional Execution",
+          "concepts": [
+            "if"
+          ]
+        },
+        {
+          "index": 1,
+          "label": "Fallback and Alternative Handling",
+          "concepts": [
+            "if this fails, try the alternative"
+          ]
+        },
+        {
+          "index": 2,
+          "label": "Compound Condition Logic",
+          "concepts": [
+            "the error occurs only when both conditions are true"
+          ]
+        }
+      ]
+    },
+    {
+      "hex": "$27",
+      "label": "Degree",
+      "concepts": [
+        "very",
+        "the temperature is very high"
+      ],
+      "subcategories": [
+        {
+          "index": 0,
+          "label": "Intensifier",
+          "concepts": [
+            "very"
+          ]
+        },
+        {
+          "index": 1,
+          "label": "High Temperature",
+          "concepts": [
+            "the temperature is very high"
+          ]
+        }
+      ]
+    },
+    {
+      "hex": "$28",
+      "label": "Comparison",
+      "concepts": [
+        "more",
+        "like (similar)",
+        "making a comparison",
+        "either option A or option B will work"
+      ],
+      "subcategories": [
+        {
+          "index": 0,
+          "label": "Degree of Difference",
+          "concepts": [
+            "more"
+          ]
+        },
+        {
+          "index": 1,
+          "label": "Similarity",
+          "concepts": [
+            "like (similar)"
+          ]
+        },
+        {
+          "index": 2,
+          "label": "Process of Comparing",
+          "concepts": [
+            "making a comparison"
+          ]
+        },
+        {
+          "index": 3,
+          "label": "Choice Between Alternatives",
+          "concepts": [
+            "either option A or option B will work"
+          ]
+        }
+      ]
+    },
+    {
+      "hex": "$29",
+      "label": "Requests Help",
+      "concepts": [
+        "Can you help me with this?",
+        "I need assistance with something",
+        "Please fix this immediately",
+        "Would you mind taking a look?",
+        "Help!"
+      ],
+      "subcategories": [
+        {
+          "index": 0,
+          "label": "Polite Requests for Assistance",
+          "concepts": [
+            "Can you help me with this?",
+            "Would you mind taking a look?"
+          ]
+        },
+        {
+          "index": 1,
+          "label": "Direct Calls for Help",
+          "concepts": [
+            "Help!",
+            "I need assistance with something"
+          ]
+        },
+        {
+          "index": 2,
+          "label": "Urgent Problem Resolution",
+          "concepts": [
+            "Please fix this immediately"
+          ]
+        },
+        {
+          "index": 3,
+          "label": "General Support Inquiries",
+          "concepts": []
+        },
+        {
+          "index": 4,
+          "label": "Open-Ended Assistance Requests",
+          "concepts": []
+        }
+      ]
+    },
+    {
+      "hex": "$2A",
+      "label": "Technical Issues",
+      "concepts": [
+        "The function is throwing an error",
+        "The database query is too slow",
+        "The API returns a 500 error",
+        "Memory usage is increasing over time",
+        "The test suite is failing",
+        "I need to refactor this code",
+        "The deployment pipeline is broken"
+      ],
+      "subcategories": [
+        {
+          "index": 0,
+          "label": "Runtime Errors",
+          "concepts": [
+            "The function is throwing an error"
+          ]
+        },
+        {
+          "index": 1,
+          "label": "Performance Issues",
+          "concepts": [
+            "The database query is too slow"
+          ]
+        },
+        {
+          "index": 2,
+          "label": "API Failures",
+          "concepts": [
+            "The API returns a 500 error"
+          ]
+        },
+        {
+          "index": 3,
+          "label": "Memory Leaks",
+          "concepts": [
+            "Memory usage is increasing over time"
+          ]
+        },
+        {
+          "index": 4,
+          "label": "Test Failures",
+          "concepts": [
+            "The test suite is failing"
+          ]
+        },
+        {
+          "index": 5,
+          "label": "Code Quality",
+          "concepts": [
+            "I need to refactor this code"
+          ]
+        },
+        {
+          "index": 6,
+          "label": "CI/CD Pipeline Issues",
+          "concepts": [
+            "The deployment pipeline is broken"
+          ]
+        }
+      ]
+    },
+    {
+      "hex": "$2B",
+      "label": "Emotional State",
+      "concepts": [
+        "I'm really frustrated with this",
+        "This is amazing!",
+        "I'm confused about how this works",
+        "I'm worried about the deadline",
+        "I feel great about the progress",
+        "This is unacceptable",
+        "I appreciate your help"
+      ],
+      "subcategories": [
+        {
+          "index": 0,
+          "label": "Frustration and Dissatisfaction",
+          "concepts": [
+            "I'm really frustrated with this",
+            "This is unacceptable"
+          ]
+        },
+        {
+          "index": 1,
+          "label": "Excitement and Enthusiasm",
+          "concepts": [
+            "This is amazing!"
+          ]
+        },
+        {
+          "index": 2,
+          "label": "Confusion and Uncertainty",
+          "concepts": [
+            "I'm confused about how this works"
+          ]
+        },
+        {
+          "index": 3,
+          "label": "Anxiety and Worry",
+          "concepts": [
+            "I'm worried about the deadline"
+          ]
+        },
+        {
+          "index": 4,
+          "label": "Satisfaction and Positivity",
+          "concepts": [
+            "I feel great about the progress"
+          ]
+        },
+        {
+          "index": 5,
+          "label": "Gratitude and Appreciation",
+          "concepts": [
+            "I appreciate your help"
+          ]
+        },
+        {
+          "index": 6,
+          "label": "Motivation and Determination",
+          "concepts": []
+        }
+      ]
+    },
+    {
+      "hex": "$2C",
+      "label": "Questions",
+      "concepts": [
+        "asking a question",
+        "What is the capital of France?",
+        "How does photosynthesis work?",
+        "Explain quantum computing",
+        "What are the symptoms of diabetes?",
+        "How do I calculate compound interest?",
+        "requesting information"
+      ],
+      "subcategories": [
+        {
+          "index": 0,
+          "label": "General Inquiry Skills",
+          "concepts": [
+            "asking a question",
+            "requesting information"
+          ]
+        },
+        {
+          "index": 1,
+          "label": "Geographical Questions",
+          "concepts": [
+            "What is the capital of France?"
+          ]
+        },
+        {
+          "index": 2,
+          "label": "Biological Processes",
+          "concepts": [
+            "How does photosynthesis work?",
+            "What are the symptoms of diabetes?"
+          ]
+        },
+        {
+          "index": 3,
+          "label": "Advanced Technology Concepts",
+          "concepts": [
+            "Explain quantum computing"
+          ]
+        },
+        {
+          "index": 4,
+          "label": "Health and Medical Information",
+          "concepts": [
+            "What are the symptoms of diabetes?"
+          ]
+        },
+        {
+          "index": 5,
+          "label": "Mathematical Calculations",
+          "concepts": [
+            "How do I calculate compound interest?"
+          ]
+        },
+        {
+          "index": 6,
+          "label": "Scientific Explanations",
+          "concepts": [
+            "How does photosynthesis work?"
+          ]
+        }
+      ]
+    },
+    {
+      "hex": "$2D",
+      "label": "Speech Acts",
+      "concepts": [
+        "making a statement",
+        "giving a command",
+        "expressing agreement",
+        "expressing disagreement",
+        "offering an opinion",
+        "making a suggestion",
+        "apologizing",
+        "thanking",
+        "greeting",
+        "saying goodbye",
+        "warning",
+        "promising",
+        "threatening",
+        "complaining",
+        "praising",
+        "criticizing",
+        "confirming",
+        "denying",
+        "requesting permission",
+        "giving permission",
+        "refusing",
+        "accepting",
+        "rejecting",
+        "inviting",
+        "congratulating",
+        "expressing sympathy",
+        "expressing surprise",
+        "expressing doubt",
+        "expressing certainty",
+        "expressing preference",
+        "making a prediction"
+      ],
+      "subcategories": [
+        {
+          "index": 0,
+          "label": "Declarations",
+          "concepts": [
+            "making a statement",
+            "expressing certainty",
+            "making a prediction"
+          ]
+        },
+        {
+          "index": 1,
+          "label": "Directives",
+          "concepts": [
+            "giving a command",
+            "requesting permission",
+            "giving permission",
+            "refusing"
+          ]
+        },
+        {
+          "index": 2,
+          "label": "Commissives",
+          "concepts": [
+            "promising",
+            "threatening",
+            "offering an opinion",
+            "making a suggestion"
+          ]
+        },
+        {
+          "index": 3,
+          "label": "Expressives - Positive Social",
+          "concepts": [
+            "thanking",
+            "praising",
+            "congratulating",
+            "expressing sympathy"
+          ]
+        },
+        {
+          "index": 4,
+          "label": "Expressives - Negative Social",
+          "concepts": [
+            "apologizing",
+            "complaining",
+            "criticizing"
+          ]
+        },
+        {
+          "index": 5,
+          "label": "Expressives - Emotions and Attitudes",
+          "concepts": [
+            "expressing surprise",
+            "expressing doubt",
+            "expressing certainty",
+            "expressing preference"
+          ]
+        },
+        {
+          "index": 6,
+          "label": "Agreement and Confirmation",
+          "concepts": [
+            "expressing agreement",
+            "confirming",
+            "accepting"
+          ]
+        },
+        {
+          "index": 7,
+          "label": "Disagreement and Rejection",
+          "concepts": [
+            "expressing disagreement",
+            "denying",
+            "rejecting"
+          ]
+        },
+        {
+          "index": 8,
+          "label": "Greetings and Farewells",
+          "concepts": [
+            "greeting",
+            "saying goodbye"
+          ]
+        },
+        {
+          "index": 9,
+          "label": "Invitations and Responses",
+          "concepts": [
+            "inviting",
+            "accepting",
+            "rejecting"
+          ]
+        },
+        {
+          "index": 10,
+          "label": "Warnings",
+          "concepts": [
+            "warning"
+          ]
+        },
+        {
+          "index": 11,
+          "label": "Opinions and Preferences",
+          "concepts": [
+            "offering an opinion",
+            "expressing preference"
+          ]
+        },
+        {
+          "index": 12,
+          "label": "Permissions",
+          "concepts": [
+            "requesting permission",
+            "giving permission",
+            "refusing"
+          ]
+        },
+        {
+          "index": 13,
+          "label": "Commitments",
+          "concepts": [
+            "promising",
+            "threatening"
+          ]
+        },
+        {
+          "index": 14,
+          "label": "Social Rituals",
+          "concepts": [
+            "greeting",
+            "thanking",
+            "apologizing",
+            "saying goodbye"
+          ]
+        },
+        {
+          "index": 15,
+          "label": "Judgments and Evaluations",
+          "concepts": [
+            "praising",
+            "criticizing",
+            "complaining",
+            "confirming",
+            "denying"
+          ]
+        }
+      ]
+    },
+    {
+      "hex": "$2E",
+      "label": "Science",
+      "concepts": [
+        "physics",
+        "chemistry",
+        "biology",
+        "mathematics",
+        "astronomy",
+        "climate science",
+        "genetics",
+        "neuroscience",
+        "ecology"
+      ],
+      "subcategories": [
+        {
+          "index": 0,
+          "label": "Physical Sciences",
+          "concepts": [
+            "physics",
+            "chemistry"
+          ]
+        },
+        {
+          "index": 1,
+          "label": "Life Sciences",
+          "concepts": [
+            "biology",
+            "ecology"
+          ]
+        },
+        {
+          "index": 2,
+          "label": "Molecular and Genetic Sciences",
+          "concepts": [
+            "genetics",
+            "neuroscience"
+          ]
+        },
+        {
+          "index": 3,
+          "label": "Earth and Environmental Sciences",
+          "concepts": [
+            "climate science",
+            "astronomy"
+          ]
+        },
+        {
+          "index": 4,
+          "label": "Formal Sciences",
+          "concepts": [
+            "mathematics"
+          ]
+        },
+        {
+          "index": 5,
+          "label": "Space Sciences",
+          "concepts": []
+        },
+        {
+          "index": 6,
+          "label": "Biological Systems",
+          "concepts": []
+        },
+        {
+          "index": 7,
+          "label": "Chemical Sciences",
+          "concepts": []
+        },
+        {
+          "index": 8,
+          "label": "Cognitive Sciences",
+          "concepts": []
+        }
+      ]
+    },
+    {
+      "hex": "$2F",
+      "label": "Business",
+      "concepts": [
+        "marketing",
+        "finance",
+        "management",
+        "entrepreneurship",
+        "sales",
+        "customer service",
+        "project management",
+        "strategy",
+        "accounting"
+      ],
+      "subcategories": [
+        {
+          "index": 0,
+          "label": "Marketing & Promotion",
+          "concepts": [
+            "marketing"
+          ]
+        },
+        {
+          "index": 1,
+          "label": "Financial Management",
+          "concepts": [
+            "finance"
+          ]
+        },
+        {
+          "index": 2,
+          "label": "Organizational Leadership",
+          "concepts": [
+            "management"
+          ]
+        },
+        {
+          "index": 3,
+          "label": "Innovation & Startups",
+          "concepts": [
+            "entrepreneurship"
+          ]
+        },
+        {
+          "index": 4,
+          "label": "Revenue Generation",
+          "concepts": [
+            "sales"
+          ]
+        },
+        {
+          "index": 5,
+          "label": "Client Relations",
+          "concepts": [
+            "customer service"
+          ]
+        },
+        {
+          "index": 6,
+          "label": "Operational Execution",
+          "concepts": [
+            "project management"
+          ]
+        },
+        {
+          "index": 7,
+          "label": "Corporate Planning",
+          "concepts": [
+            "strategy"
+          ]
+        },
+        {
+          "index": 8,
+          "label": "Financial Reporting",
+          "concepts": [
+            "accounting"
+          ]
+        }
+      ]
+    },
+    {
+      "hex": "$30",
+      "label": "Health",
+      "concepts": [
+        "medicine",
+        "mental health",
+        "nutrition",
+        "exercise",
+        "disease",
+        "treatment",
+        "diagnosis",
+        "wellness",
+        "healthcare"
+      ],
+      "subcategories": [
+        {
+          "index": 0,
+          "label": "Medical Practice",
+          "concepts": [
+            "medicine"
+          ]
+        },
+        {
+          "index": 1,
+          "label": "Mental Well-being",
+          "concepts": [
+            "mental health"
+          ]
+        },
+        {
+          "index": 2,
+          "label": "Diet and Nutrition",
+          "concepts": [
+            "nutrition"
+          ]
+        },
+        {
+          "index": 3,
+          "label": "Physical Activity",
+          "concepts": [
+            "exercise"
+          ]
+        },
+        {
+          "index": 4,
+          "label": "Illness and Disease",
+          "concepts": [
+            "disease"
+          ]
+        },
+        {
+          "index": 5,
+          "label": "Medical Treatment",
+          "concepts": [
+            "treatment"
+          ]
+        },
+        {
+          "index": 6,
+          "label": "Medical Diagnosis",
+          "concepts": [
+            "diagnosis"
+          ]
+        },
+        {
+          "index": 7,
+          "label": "Holistic Wellness",
+          "concepts": [
+            "wellness"
+          ]
+        },
+        {
+          "index": 8,
+          "label": "Healthcare Systems",
+          "concepts": [
+            "healthcare"
+          ]
+        }
+      ]
+    },
+    {
+      "hex": "$31",
+      "label": "Education",
+      "concepts": [
+        "teaching",
+        "learning",
+        "studying",
+        "homework",
+        "research",
+        "university",
+        "training",
+        "curriculum"
+      ],
+      "subcategories": [
+        {
+          "index": 0,
+          "label": "Instruction Methods",
+          "concepts": [
+            "teaching"
+          ]
+        },
+        {
+          "index": 1,
+          "label": "Knowledge Acquisition",
+          "concepts": [
+            "learning"
+          ]
+        },
+        {
+          "index": 2,
+          "label": "Academic Practice",
+          "concepts": [
+            "studying",
+            "homework"
+          ]
+        },
+        {
+          "index": 3,
+          "label": "Scholarly Investigation",
+          "concepts": [
+            "research"
+          ]
+        },
+        {
+          "index": 4,
+          "label": "Higher Education Institutions",
+          "concepts": [
+            "university"
+          ]
+        },
+        {
+          "index": 5,
+          "label": "Skill Development",
+          "concepts": [
+            "training"
+          ]
+        },
+        {
+          "index": 6,
+          "label": "Educational Framework",
+          "concepts": [
+            "curriculum"
+          ]
+        },
+        {
+          "index": 7,
+          "label": "Classroom Engagement",
+          "concepts": []
+        }
+      ]
+    },
+    {
+      "hex": "$32",
+      "label": "Daily Life",
+      "concepts": [
+        "cooking",
+        "travel",
+        "shopping",
+        "housing",
+        "transportation",
+        "weather"
+      ],
+      "subcategories": [
+        {
+          "index": 0,
+          "label": "Food Preparation",
+          "concepts": [
+            "cooking"
+          ]
+        },
+        {
+          "index": 1,
+          "label": "Mobility and Commute",
+          "concepts": [
+            "transportation",
+            "travel"
+          ]
+        },
+        {
+          "index": 2,
+          "label": "Consumer Activities",
+          "concepts": [
+            "shopping"
+          ]
+        },
+        {
+          "index": 3,
+          "label": "Living Environment",
+          "concepts": [
+            "housing"
+          ]
+        },
+        {
+          "index": 4,
+          "label": "Climate Conditions",
+          "concepts": [
+            "weather"
+          ]
+        },
+        {
+          "index": 5,
+          "label": "Daily Errands",
+          "concepts": []
+        }
+      ]
+    },
+    {
+      "hex": "$33",
+      "label": "Social",
+      "concepts": [
+        "family",
+        "friendship",
+        "relationship",
+        "work"
+      ],
+      "subcategories": [
+        {
+          "index": 0,
+          "label": "Family Bonds",
+          "concepts": [
+            "family"
+          ]
+        },
+        {
+          "index": 1,
+          "label": "Friendship Dynamics",
+          "concepts": [
+            "friendship"
+          ]
+        },
+        {
+          "index": 2,
+          "label": "Romantic Relationships",
+          "concepts": [
+            "relationship"
+          ]
+        },
+        {
+          "index": 3,
+          "label": "Professional Connections",
+          "concepts": [
+            "work"
+          ]
+        }
+      ]
+    },
+    {
+      "hex": "$34",
+      "label": "Creative",
+      "concepts": [
+        "writing",
+        "music",
+        "art",
+        "design",
+        "photography",
+        "film",
+        "literature",
+        "architecture",
+        "fashion"
+      ],
+      "subcategories": [
+        {
+          "index": 0,
+          "label": "Visual Arts",
+          "concepts": [
+            "art",
+            "painting",
+            "drawing"
+          ]
+        },
+        {
+          "index": 1,
+          "label": "Writing & Literature",
+          "concepts": [
+            "writing",
+            "literature"
+          ]
+        },
+        {
+          "index": 2,
+          "label": "Music",
+          "concepts": [
+            "music"
+          ]
+        },
+        {
+          "index": 3,
+          "label": "Design",
+          "concepts": [
+            "design"
+          ]
+        },
+        {
+          "index": 4,
+          "label": "Photography",
+          "concepts": [
+            "photography"
+          ]
+        },
+        {
+          "index": 5,
+          "label": "Film & Cinema",
+          "concepts": [
+            "film"
+          ]
+        },
+        {
+          "index": 6,
+          "label": "Architecture",
+          "concepts": [
+            "architecture"
+          ]
+        },
+        {
+          "index": 7,
+          "label": "Fashion",
+          "concepts": [
+            "fashion"
+          ]
+        },
+        {
+          "index": 8,
+          "label": "Performing Arts",
+          "concepts": []
+        }
+      ]
+    },
+    {
+      "hex": "$35",
+      "label": "Society",
+      "concepts": [
+        "politics",
+        "law",
+        "economics",
+        "philosophy",
+        "history",
+        "culture",
+        "religion",
+        "ethics",
+        "environment",
+        "justice"
+      ],
+      "subcategories": [
+        {
+          "index": 0,
+          "label": "Political Systems",
+          "concepts": [
+            "politics"
+          ]
+        },
+        {
+          "index": 1,
+          "label": "Legal Frameworks",
+          "concepts": [
+            "law"
+          ]
+        },
+        {
+          "index": 2,
+          "label": "Economic Structures",
+          "concepts": [
+            "economics"
+          ]
+        },
+        {
+          "index": 3,
+          "label": "Philosophical Thought",
+          "concepts": [
+            "philosophy"
+          ]
+        },
+        {
+          "index": 4,
+          "label": "Historical Development",
+          "concepts": [
+            "history"
+          ]
+        },
+        {
+          "index": 5,
+          "label": "Cultural Practices",
+          "concepts": [
+            "culture"
+          ]
+        },
+        {
+          "index": 6,
+          "label": "Religious Beliefs",
+          "concepts": [
+            "religion"
+          ]
+        },
+        {
+          "index": 7,
+          "label": "Moral Principles",
+          "concepts": [
+            "ethics"
+          ]
+        },
+        {
+          "index": 8,
+          "label": "Environmental Stewardship",
+          "concepts": [
+            "environment"
+          ]
+        },
+        {
+          "index": 9,
+          "label": "Justice Systems",
+          "concepts": [
+            "justice"
+          ]
+        }
+      ]
+    },
+    {
+      "hex": "$36",
+      "label": "Quantities",
+      "concepts": [
+        "There are approximately 500 items",
+        "The cost is $29.99",
+        "It decreased by 15 percent",
+        "More than half of the users",
+        "The smallest possible value"
+      ],
+      "subcategories": [
+        {
+          "index": 0,
+          "label": "Approximate Quantity",
+          "concepts": [
+            "There are approximately 500 items"
+          ]
+        },
+        {
+          "index": 1,
+          "label": "Monetary Value",
+          "concepts": [
+            "The cost is $29.99"
+          ]
+        },
+        {
+          "index": 2,
+          "label": "Percentage Change",
+          "concepts": [
+            "It decreased by 15 percent"
+          ]
+        },
+        {
+          "index": 3,
+          "label": "Proportional Majority",
+          "concepts": [
+            "More than half of the users"
+          ]
+        },
+        {
+          "index": 4,
+          "label": "Minimum Value",
+          "concepts": [
+            "The smallest possible value"
+          ]
+        }
+      ]
+    },
+    {
+      "hex": "$37",
+      "label": "Opinion",
+      "concepts": [
+        "I think this approach is better",
+        "The quality could be improved",
+        "This is the best solution I've seen",
+        "I disagree with that assessment",
+        "The performance is acceptable"
+      ],
+      "subcategories": [
+        {
+          "index": 0,
+          "label": "Positive Evaluation",
+          "concepts": [
+            "This is the best solution I've seen"
+          ]
+        },
+        {
+          "index": 1,
+          "label": "Constructive Criticism",
+          "concepts": [
+            "The quality could be improved"
+          ]
+        },
+        {
+          "index": 2,
+          "label": "Mild Approval",
+          "concepts": [
+            "The performance is acceptable"
+          ]
+        },
+        {
+          "index": 3,
+          "label": "Preference Expression",
+          "concepts": [
+            "I think this approach is better"
+          ]
+        },
+        {
+          "index": 4,
+          "label": "Disagreement",
+          "concepts": [
+            "I disagree with that assessment"
+          ]
+        }
+      ]
+    },
+    {
+      "hex": "$38",
+      "label": "Agreement",
+      "concepts": [
+        "expressing agreement",
+        "confirming",
+        "That's a good point"
+      ],
+      "subcategories": [
+        {
+          "index": 0,
+          "label": "Expressing Agreement",
+          "concepts": [
+            "expressing agreement",
+            "That's a good point"
+          ]
+        },
+        {
+          "index": 1,
+          "label": "Verification and Confirmation",
+          "concepts": [
+            "confirming"
+          ]
+        },
+        {
+          "index": 2,
+          "label": "Acknowledgment and Validation",
+          "concepts": []
+        }
+      ]
+    },
+    {
+      "hex": "$39",
+      "label": "Disagreement",
+      "concepts": [
+        "expressing disagreement",
+        "denying",
+        "I disagree with that assessment",
+        "This is unacceptable"
+      ],
+      "subcategories": [
+        {
+          "index": 0,
+          "label": "General Disagreement Expression",
+          "concepts": [
+            "expressing disagreement"
+          ]
+        },
+        {
+          "index": 1,
+          "label": "Direct Denial",
+          "concepts": [
+            "denying"
+          ]
+        },
+        {
+          "index": 2,
+          "label": "Intellectual or Evaluative Disagreement",
+          "concepts": [
+            "I disagree with that assessment"
+          ]
+        },
+        {
+          "index": 3,
+          "label": "Strong Moral or Emotional Rejection",
+          "concepts": [
+            "This is unacceptable"
+          ]
+        }
+      ]
+    },
+    {
+      "hex": "$3A",
+      "label": "Gratitude",
+      "concepts": [
+        "thanking",
+        "I appreciate your help",
+        "congratulating"
+      ],
+      "subcategories": [
+        {
+          "index": 0,
+          "label": "Expressing Thanks",
+          "concepts": [
+            "thanking"
+          ]
+        },
+        {
+          "index": 1,
+          "label": "Acknowledging Help",
+          "concepts": [
+            "I appreciate your help"
+          ]
+        },
+        {
+          "index": 2,
+          "label": "Celebrating Success",
+          "concepts": [
+            "congratulating"
+          ]
+        }
+      ]
+    },
+    {
+      "hex": "$3B",
+      "label": "Apology",
+      "concepts": [
+        "apologizing",
+        "I was wrong about that"
+      ],
+      "subcategories": [
+        {
+          "index": 0,
+          "label": "Expressing Apology",
+          "concepts": [
+            "apologizing"
+          ]
+        },
+        {
+          "index": 1,
+          "label": "Admitting Mistake",
+          "concepts": [
+            "I was wrong about that"
+          ]
+        }
+      ]
+    },
+    {
+      "hex": "$3C",
+      "label": "Greetings",
+      "concepts": [
+        "greeting",
+        "saying goodbye"
+      ],
+      "subcategories": [
+        {
+          "index": 0,
+          "label": "Initiating Greetings",
+          "concepts": [
+            "greeting"
+          ]
+        },
+        {
+          "index": 1,
+          "label": "Farewells",
+          "concepts": [
+            "saying goodbye"
+          ]
+        }
+      ]
+    },
+    {
+      "hex": "$3D",
+      "label": "Warning",
+      "concepts": [
+        "warning",
+        "threatening"
+      ],
+      "subcategories": [
+        {
+          "index": 0,
+          "label": "Cautionary Signals",
+          "concepts": [
+            "warning"
+          ]
+        },
+        {
+          "index": 1,
+          "label": "Hostile Intent",
+          "concepts": [
+            "threatening"
+          ]
+        }
+      ]
+    },
+    {
+      "hex": "$3E",
+      "label": "Promises",
+      "concepts": [
+        "promising",
+        "I feel great about the progress"
+      ],
+      "subcategories": [
+        {
+          "index": 0,
+          "label": "Commitment and Intent",
+          "concepts": [
+            "promising"
+          ]
+        },
+        {
+          "index": 1,
+          "label": "Positive Emotional Response",
+          "concepts": [
+            "I feel great about the progress"
+          ]
+        }
+      ]
+    },
+    {
+      "hex": "$3F",
+      "label": "Feedback",
+      "concepts": [
+        "complaining",
+        "praising",
+        "criticizing",
+        "expressing sympathy",
+        "expressing surprise",
+        "expressing doubt",
+        "expressing certainty",
+        "expressing preference"
+      ],
+      "subcategories": [
+        {
+          "index": 0,
+          "label": "Negative Emotional Response",
+          "concepts": [
+            "complaining",
+            "criticizing"
+          ]
+        },
+        {
+          "index": 1,
+          "label": "Positive Emotional Response",
+          "concepts": [
+            "praising",
+            "expressing sympathy"
+          ]
+        },
+        {
+          "index": 2,
+          "label": "Emotional Surprise",
+          "concepts": [
+            "expressing surprise"
+          ]
+        },
+        {
+          "index": 3,
+          "label": "Cognitive Uncertainty",
+          "concepts": [
+            "expressing doubt"
+          ]
+        },
+        {
+          "index": 4,
+          "label": "Cognitive Certainty",
+          "concepts": [
+            "expressing certainty"
+          ]
+        },
+        {
+          "index": 5,
+          "label": "Personal Preference",
+          "concepts": [
+            "expressing preference"
+          ]
+        },
+        {
+          "index": 6,
+          "label": "Constructive Feedback",
+          "concepts": [
+            "criticizing",
+            "complaining"
+          ]
+        },
+        {
+          "index": 7,
+          "label": "Emotional Expressions",
+          "concepts": [
+            "expressing sympathy",
+            "expressing surprise"
+          ]
+        }
+      ]
+    }
+  ]
+}
