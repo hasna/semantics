@@ -11,7 +11,9 @@ venv/
 env/
 .env
 
-# Codebook training data (large, downloaded by scripts)
+# Agent tooling artifacts
+.takumi/
+.codewith/
 data/
 
 # Generated codebook numpy arrays (large, rebuilt by training)
